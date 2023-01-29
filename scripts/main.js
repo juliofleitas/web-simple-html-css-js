@@ -1,2 +1,2 @@
-const miTitulo = document.querySelector('h1');
-miTitulo.textContent = '¡Hola mundo!';
+const miSaludo = document.querySelector('h2');
+miSaludo.textContent = '¡Hola mundo!';
